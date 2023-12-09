@@ -1,0 +1,2 @@
+git init next git add next git status next git commit last 
+git push 
